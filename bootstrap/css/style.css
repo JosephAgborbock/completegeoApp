@@ -1,0 +1,39 @@
+.textpart {
+text-align: center;
+background-color: rgba(13, 0, 0, 0.7);
+color: #fff;
+width: 50%;
+height: 300px;
+position:absolute;
+top:150px;
+left: 25%;
+z-index:9;}
+
+.carousel-inner{
+width:100%;
+position:relative;}
+@media (min-width: 992px) {
+.content-div {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 300px;}}
+
+
+/*search area*/
+.search{
+  margin-top: 50px;
+}
+
+.navbar, .nav li{
+	background-color: #d9d9d9;
+	border-color: #d9d9d9;
+}
+
+.black{
+	color: #000000;
+}
+
+.navbar-right form{
+	margin-top: 3%;
+}
